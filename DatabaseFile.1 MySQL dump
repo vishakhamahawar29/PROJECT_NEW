@@ -74,11 +74,11 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `user` (`user_id`, `user_fname`, `user_lname`, `user_email`, `user_password`, `user_status`, `user_gender`, `user_image`) VALUES
-(1, 'Anas', 'Khan               ',  'anas@gmail.com', '123',  1,  'male', '../images/Profile_Images/jonney.jpeg1571984859'),
-(2, 'Shubham   ', 'Jha   ', 'shubham@gmail.com',  '1234', 1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/liarnado.jpeg1566909481'),
-(3, 'Ram',  'Verma',  'ram@gmail.com',  '123',  1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
-(5, 'Riya', 'Wadhwa', 'riya@gmail.com', '123',  1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
-(10,  'Pooja  ',  'Laddha  ', 'pooja@gmail.com',  'pooja123', 1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/deepika.jpeg1566304541'),
-(11,  'Priyanka', 'Sharma', 'priyanka@gmail.com', '123',  1,  'female', '../images/Profile_Images/eva.jpeg1567171554');
+(1,'Vishakha','Mahawar','vishakha@gmail.com','123',1,'female', '../images/Profile_Images/jonney.jpeg1571984859'),
+(2,'Suyash','Shukla','suyash@gmail.com','123', 1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/liarnado.jpeg1566909481'),
+(3,'Rashmair','Peswani','rashmair@gmail.com',  '123',  1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
+(4,'Mani','Meshram','mani@gmail.com', '123',  1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
+(5,'Saksh','Gupta','sakshi@gmail.com',  '123', 1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/deepika.jpeg1566304541'),
 
--- 2019-10-25 08:15:05
+
+
