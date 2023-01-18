@@ -78,7 +78,7 @@ INSERT INTO `user` (`user_id`, `user_fname`, `user_lname`, `user_email`, `user_p
 (2,'Suyash','Shukla','suyash@gmail.com','123', 1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/liarnado.jpeg1566909481'),
 (3,'Rashmair','Peswani','rashmair@gmail.com',  '123',  1,  'male', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
 (4,'Mani','Meshram','mani@gmail.com', '123',  1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/daniel.jpeg1562053931'),
-(5,'Saksh','Gupta','sakshi@gmail.com',  '123', 1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/deepika.jpeg1566304541'),
+(5,'Saksh','Gupta','sakshi@gmail.com',  '123', 1,  'female', '/new-traning/Shivam_Yadav/Shivam/PHP/DataBase/Uploads/deepika.jpeg1566304541');
 
 
 
